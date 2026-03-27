@@ -3,7 +3,3 @@
 # Geralmente são criadas usando colchetes ou a função list().: 
 lista = ['Guilherme', 'Sergio', 'Thiago', 'Joaquim']
 print(lista)
-
-
-numeros  = list(range(10))
-print(numeros)
